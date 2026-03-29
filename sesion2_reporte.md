@@ -32,4 +32,4 @@ En mi opinión, sería importante encontrar un equilibrio donde el algoritmo no 
 ## Fuente
 Costello et al.,(2024, febrero 12). Algorithms, addiction and adolescent mental health. Cambridge University Press. [Artículo](https://www.cambridge.org/core/journals/american-journal-of-law-and-medicine/article/algorithms-addiction-and-adolescent-mental-health-an-interdisciplinary-study-to-inform-statelevel-policy-action-to-protect-youth-from-the-dangers-of-social-media/EC9754B533553BDD56827CD9E34DFC25)
 
-Ingeniería inversa de Productos IA. (s.f.). [Material de clase de introducción a la IA]. Universidad Privada Boliviana(UPB).
+Sosa Santos, R. F. (2026). Introducción a la IA · Sesión 02: Guía del estudiante. Universidad Privada Boliviana (UPB). [Material de clase].
